@@ -54,3 +54,4 @@ Recommendation: Optimize staffing schedules by increasing agent availability dur
 - **Recommendation**: Create a loyalty program targeting repeat customers, offering incentives like discounts on Internet Packages or expedited loan processing. Use dashboard filters to identify and prioritize these customers, potentially increasing retention rates and revenue by 10%.
 
 
+---
