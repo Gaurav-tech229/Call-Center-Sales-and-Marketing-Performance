@@ -22,7 +22,7 @@ This project creates an interactive Excel-based dashboard for analyzing call cen
 - **Sample Size**: 200,000 records from 2024.
 
 ## Visual Example
-![Dashboard]()
+![Dashboard](https://github.com/Gaurav-tech229/Call-Center-Sales-and-Marketing-Performance/blob/main/Dashboard.png)
 
 ## Key Findings and Recommendations
 
